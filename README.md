@@ -494,4 +494,33 @@ and covered by a provisional patent filing.
 
 ---
 
-Copyright 2026 Nicky2Tymz LLC. All rights reserved.
+---
+
+## References
+
+[1] Trolian, N. (2026a). "The Monarchy Pattern." Flux Forge Labs.
+[2] Trolian, N. (2026b). "The Agent Stopped Lying." Flux Forge Labs.
+[3] Trolian, N. (2026c). "The Mixing Board." Flux Forge Labs.
+[4] Trolian, N. (2026d). "The Dipole Architecture." Flux Forge Labs.
+[5] Trolian, N. (2026e). "Metaphor as Cognitive Architecture." Flux Forge Labs.
+[6] Trolian, N. (2026f). "The Board Spectrometer." Flux Forge Labs.
+[7] Trolian, N. (2026g). "Structure Is The Mechanism." Flux Forge Labs.
+[8] Trolian, N. (2026h). "Structure Is Universal." Flux Forge Labs.
+
+---
+
+## Author
+
+Nick Trolian — software engineer, 20+ years designing mission-critical systems for the Department of Defense. Now building AI agent governance architectures at Flux Forge Labs.
+
+This paper is part of a nine-paper research series exploring how structure governs AI agent behavior. If you're cloning these repos and running the experiments — I see you. More is coming.
+
+- [GitHub](https://github.com/nicky2tymze)
+- [LinkedIn](https://linkedin.com/in/nicktrolian)
+- Email: nicktrolian@gmail.com
+
+Open to roles in AI agent architecture, governance, and applied research.
+
+---
+
+*Copyright 2026 Nicky2Tymz LLC. All rights reserved.*
