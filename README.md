@@ -10,7 +10,7 @@ Flux Forge Labs · Nicky2Tymz LLC
 ## Abstract
 ---
 
-We present experimental evidence that a symbolic structural grammar
+I present experimental evidence that a symbolic structural grammar
 produces measurably more accurate, self-aware, and differentiated
 agent behavior than any natural language prompt engineering approach
 — including the documented best practices of leading AI companies.
